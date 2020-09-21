@@ -19,8 +19,8 @@ const RESOURCES = {
 "assets/assets/wechat.png": "199febd121794aabdee55fb9d0aeec92",
 "assets/AssetManifest.json": "532f81b1a8bac6efd118107ceb4df33c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "55be429fd33bff80a82a54389064fa33",
-"/": "55be429fd33bff80a82a54389064fa33",
+"index.html": "5fe5b84902e91d458dff07a67b4eefca",
+"/": "5fe5b84902e91d458dff07a67b4eefca",
 "manifest.json": "4565ba4f18453d825c0e57b6ea02a9e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1"
